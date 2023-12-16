@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dee2e6;
+}
+
+#mainimg{
+    width: 500px;
+    height: 400px;
+    background-image: url('https://images.meesho.com/images/products/122440160/hnzyf_512.webp');
+    /* background-image: url(''); */
+    background-color: #dee2e6;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color-burn;
+
+    
+}
+
+header{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    text-shadow: 2px 2px 4px #3e4b58;
+}
+footer{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    text-shadow: 2px 2px 4px #3e4b58;
+}
+section{
+    margin: auto;
+}
